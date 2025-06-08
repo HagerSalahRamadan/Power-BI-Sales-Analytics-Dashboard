@@ -27,7 +27,7 @@ This dashboard analyzes sales transactions to uncover trends, regional performan
    - Created **product hierarchy**: Category → Subcategory → Product Name
   
      > 📌 Star Schema
-     - [4.Data Modeling, Dax Measures and Product Hierarchy.PNG](https://github.com/HagerSalahRamadan/Power-BI-Sales-Analytics-Dashboard/blob/main/4.Data%20Modeling%2C%20Dax%20Measures%20and%20Product%20Hierarchy.PNG)
+     - ![4.Data Modeling, Dax Measures and Product Hierarchy.PNG](https://github.com/HagerSalahRamadan/Power-BI-Sales-Analytics-Dashboard/blob/main/4.Data%20Modeling%2C%20Dax%20Measures%20and%20Product%20Hierarchy.PNG)
   
 3. **DAX Measures**
    - Orders
@@ -49,9 +49,9 @@ This dashboard analyzes sales transactions to uncover trends, regional performan
 ## 📷 Dashboards Preview
 
 > 📌 Dashboards 
-- [1.Sales Overview.PNG](https://github.com/HagerSalahRamadan/Power-BI-Sales-Analytics-Dashboard/blob/main/1.Sales%20Overview.PNG)
-- [2.Orders Analysis.PNG](https://github.com/HagerSalahRamadan/Power-BI-Sales-Analytics-Dashboard/blob/main/3.Product%20Performance.PNG)
-- [3.Product Performance.PNG](https://github.com/HagerSalahRamadan/Power-BI-Sales-Analytics-Dashboard/blob/main/3.Product%20Performance.PNG)
+- ![1.Sales Overview.PNG](https://github.com/HagerSalahRamadan/Power-BI-Sales-Analytics-Dashboard/blob/main/1.Sales%20Overview.PNG)
+- ![2.Orders Analysis.PNG](https://github.com/HagerSalahRamadan/Power-BI-Sales-Analytics-Dashboard/blob/main/3.Product%20Performance.PNG)
+- ![3.Product Performance.PNG](https://github.com/HagerSalahRamadan/Power-BI-Sales-Analytics-Dashboard/blob/main/3.Product%20Performance.PNG)
 ---
 
 ## 📌 Key Insights
